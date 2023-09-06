@@ -1,1 +1,1 @@
-test_ssy_6000
+test_main_7000
